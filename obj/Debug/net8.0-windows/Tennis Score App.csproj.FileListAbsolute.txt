@@ -1,0 +1,20 @@
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\bin\Debug\net8.0-windows\Tennis Score App.exe
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\bin\Debug\net8.0-windows\Tennis Score App.deps.json
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\bin\Debug\net8.0-windows\Tennis Score App.runtimeconfig.json
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\bin\Debug\net8.0-windows\Tennis Score App.dll
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\bin\Debug\net8.0-windows\Tennis Score App.pdb
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis_Score_App.Form1.resources
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis_Score_App.Form2.resources
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis_Score_App.Form3.resources
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis_Score_App.Properties.Resources.resources
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis_Score_App.ScoreForm.resources
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.csproj.GenerateResource.cache
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.AssemblyInfoInputs.cache
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.AssemblyInfo.cs
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.csproj.CoreCompileInputs.cache
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.dll
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\refint\Tennis Score App.dll
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.pdb
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\Tennis Score App.genruntimeconfig.cache
+C:\Users\Chushkopek\Desktop\Tennis Score App Yoan 9B\obj\Debug\net8.0-windows\ref\Tennis Score App.dll
